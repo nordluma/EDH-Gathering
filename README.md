@@ -1,3 +1,7 @@
+EDH Gathering:
+
+The site is meant to search cards, create MTG decks and create playgroups to handle events.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
