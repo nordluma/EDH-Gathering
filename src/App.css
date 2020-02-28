@@ -42,3 +42,13 @@ body {
 .container h1 {
   text-align: center;
 }
+
+.footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+}
+
+.footer a {
+  padding: 2rem 0;
+}
